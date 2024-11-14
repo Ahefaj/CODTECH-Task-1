@@ -1,3 +1,11 @@
+Name :- Sheikh Ahefaj Sheikh Salim
+Company :- CODTECH IT SOLUTIONS
+ID :- CT08DS9227
+Domain :- FUll STACK WEB DEVELOPMENT
+Duration :- October to November 2024
+Mentor :- Muzammil Ahmed 
+
+
 # Online Shopping platform(E-commerce website)
 ## About:
 Welcome to the E-Commerce Website project! This web application is designed to provide a seamless online shopping experience to users while empowering administrators with efficient management tools. The website is built using Java, JSP, Servlet, Html and JDBC technologies, ensuring a robust and scalable foundation for your e-commerce venture.
